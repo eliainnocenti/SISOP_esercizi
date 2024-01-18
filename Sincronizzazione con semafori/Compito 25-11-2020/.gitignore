@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/.idea/
+Compito 25-11-2020.iml
